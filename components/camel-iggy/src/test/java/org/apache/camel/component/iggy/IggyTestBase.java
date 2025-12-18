@@ -41,8 +41,6 @@ import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Order;
 import org.junit.jupiter.api.extension.RegisterExtension;
 
-import static java.util.Optional.empty;
-
 public abstract class IggyTestBase {
 
     @Order(1)
